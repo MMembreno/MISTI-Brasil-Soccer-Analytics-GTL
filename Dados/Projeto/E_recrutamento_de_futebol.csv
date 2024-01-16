@@ -1,4 +1,4 @@
-Idade,Posição,Gols,Assistências,Chutes ao Gol,Precisão de Passe,Desarmes,Interceptações,Faltas,Cartões Amarelos,Cartões Vermelhos,Histórico de Lesões,Potencial do Jogador,Altura do Jogador (cm),Peso do Jogador (kg),Cidade Natal,Pé Dominante
+Idade,Posicao,Gols,Assistencias,Chutes ao Gol,Precisao de Passe,Desarmes,Interceptacoes,Faltas,Cartoes Amarelos,Cartoes Vermelhos,Historico de Lesoes,Potencial do Jogador,Altura do Jogador (cm),Peso do Jogador (kg),Cidade Natal,Pe Dominante
 28,Midfielder,5,2,17,87.11480264,2,1,1,0,0,High,59.66661853,150,78,Faro,Direito
 31,Midfielder,2,0,13,84.27871775,1,1,1,1,0,Medium,81.33338578,186,91,Braga,Ambidestro
 16,Goalkeeper,2,2,7,82.61247232,0,3,1,0,0,None,85.76138456,196,99,Lisboa,Ambidestro
